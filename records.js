@@ -1,1 +1,0 @@
-const RECORDS = {"017": {image: "images/017.jpg",wax: "50 g",seaweed: "5 g",origin: "국내산"}};
